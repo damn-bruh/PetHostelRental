@@ -1,0 +1,7 @@
+[ {
+  "pet" : "Harresh (Dog, Bitch, 20 years, 100 kg, Male)",
+  "room" : "Large Room (RM80)",
+  "checkIn" : [ 2025, 4, 1 ],
+  "checkOut" : [ 2025, 4, 8 ],
+  "totalPrice" : 610
+} ]
